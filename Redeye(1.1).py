@@ -8,7 +8,7 @@ print("""
 ▒█▀▀█ █▀▀█ ▒█▀▀▄ ░░ ▒█▀▀▀ ▒█░░▒█ █▀▀█
 ▒█▄▄▀ ░░▀▄ ▒█░▒█ ▀▀ ▒█▀▀▀ ▒█▄▄▄█ ░░▀▄
 ▒█░▒█ █▄▄█ ▒█▄▄▀ ░░ ▒█▄▄▄ ░░▒█░░ █▄▄█""")
-print("<-----------Coded By Copycat------------>")
+print("<---------Coded By Copycat---------->")
 print("")
 url = input("[+] Site Name: ")
 shell_name = input("[+] Shell Name: ")
